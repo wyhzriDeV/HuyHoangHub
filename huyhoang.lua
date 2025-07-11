@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("Có Cái Lồn Địt Mẹ Mày Ngu Thế Thằng Thằng Đầu Cặc🤣")
